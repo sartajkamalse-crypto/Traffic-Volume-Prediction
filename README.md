@@ -55,7 +55,5 @@ Ensemble-based techniques significantly outperformed traditional linear models. 
 | **Decision Tree** | 1.000 | 0.941 | Low | Low | Overfit |
 | **Random Forest** | **0.995** | **0.965** | **208.94** | **371.13** | **Best Model** |
 | **XGBoost** | 0.0976 | 0.958 | Low | Low | Good |
-
-
-git clone [https://github.com/YOUR_USERNAME/Traffic-Volume-Prediction.git](https://github.com/YOUR_USERNAME/Traffic-Volume-Prediction.git)
+Prediction.git)
 cd Traffic-Volume-Prediction
